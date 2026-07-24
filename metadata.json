@@ -1,0 +1,10 @@
+{
+  "name": "N'Ka Ticket",
+  "description": "Event ticketing and venue check-in platform engineered specifically for Mali with offline payments, QR verification, and multi-role dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
